@@ -3,4 +3,4 @@ docs for utilities api
 
 
 # pro access
-buy prof to increase rate limits
+Buy PRO access [HERE](https://bit.ly/getproaccessutilitiesfromghrdm)
