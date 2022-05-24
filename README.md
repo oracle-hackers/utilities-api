@@ -1,5 +1,5 @@
 # utilities-api
-docs for utilities api
+click **[HERE](https://github.com/oracle-hackers/utilities-api/wiki)** for docs of the utilities api (https://utilities.tk)
 
 
 # pro access
