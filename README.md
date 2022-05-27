@@ -1,7 +1,7 @@
 # utilities api 
-	- click **[HERE](https://github.com/oracle-hackers/utilities-api/wiki)** for docs
-	- base URI `https://utilities.tk/`
-	- support: [telegram](https://t.m/realpro1)
+  - click **[HERE](https://github.com/oracle-hackers/utilities-api/wiki)** for docs
+  - base URI `https://utilities.tk/`
+  - support: [telegram](https://t.m/realpro1)
 
 
 # pro access
