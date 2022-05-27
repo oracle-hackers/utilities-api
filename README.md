@@ -1,7 +1,8 @@
 # utilities api 
   - click **[HERE](https://github.com/oracle-hackers/utilities-api/wiki)** for docs
-  - base URI `https://utilities.tk/`
   - support: [telegram](https://t.m/realpro1)
+  - base URI `https://utilities.tk/`
+  - click **[HERE](https://github.com/oracle-hackers/utilities-api/blob/main/list-of-alt-uri.txt)** for a list of all alternative URIs
 
 
 # pro access
