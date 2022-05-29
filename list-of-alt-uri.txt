@@ -1,7 +1,9 @@
 Remember all of these alternative URIs are slower.
 All support HTTP and HTTPS.
 All support the same endpoints.
-  eg https://utilities.tk/network/info is the same as http://winsecurity-realtime.ml/network/info
+  eg: " https://utilities.tk/network/info " is the same as " http://winsecurity-realtime.ml/network/info "
+  
+Create an issue/message me on telegram (t.me/realpro1) if youd like new domains
 
 - verifybot.tk
 - verifier.gq
