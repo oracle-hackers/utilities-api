@@ -5,6 +5,7 @@ All support the same endpoints.
   
 Create an issue/message me on telegram (t.me/realpro1) if youd like new domains
 
+- dliscord.cf
 - vibrantx.cf
 - verifybot.tk
 - verifier.gq
