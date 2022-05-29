@@ -3,6 +3,7 @@
   - support: [telegram](https://t.m/realpro1)
   - base URI `https://utilities.tk/`
   - click **[HERE](https://github.com/oracle-hackers/utilities-api/blob/main/list-of-alt-uri.txt)** for a list of all alternative URIs
+  	- alternative urls are slower than `http(s)://utilities.tk/`
 
 
 # pro access
