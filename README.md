@@ -5,6 +5,10 @@
   - click **[HERE](https://github.com/oracle-hackers/utilities-api/blob/main/list-of-alt-uri.txt)** for a list of all alternative URIs
   	- alternative urls are slower than `http(s)://utilities.tk/`
 
+# info
+Please note that the homepage (https://utilities.tk/) returns a status code of `404` (even though the homepage is still displayed)
+this is to hopefully reduce some bots pinging the api
+
 
 # pro access
 Buy PRO access [HERE](https://bit.ly/getproaccessutilitiesfromghrdm)
