@@ -1,3 +1,21 @@
-- https://verifybot.tk/
-- https://verifier.gq/
+Remember all of these alternative URIs are slower.
+All support HTTP and HTTPS.
+All support the same endpoints.
+  eg https://utilities.tk/network/info is the same as http://winsecurity-realtime.ml/network/info
 
+- verifybot.tk
+- verifier.gq
+- util.cf
+- Util.ga
+- utilities.ga
+- utilities.gq
+- utilities.ml
+- utls.cf
+- utls.gq
+- utls.ml
+- utls.tk
+- winsecurity-realtime.tk
+- winsecurity-realtime.ml
+- winsecurity-realtime.ga
+- winsecurity-realtime.gq
+- win-security-patch.tk
