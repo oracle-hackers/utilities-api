@@ -10,10 +10,6 @@
 - Boost info when using /tokens/check (total boosts, available boosts, cooldowned boosts)
 
 
-# info
-Please note that the homepage (https://utilities.tk/) returns a status code of `404` (even though the homepage is still displayed)
-this is to hopefully reduce some bots pinging the api
-
 
 # pro access
 Buy PRO access [HERE](https://bit.ly/getproaccessutilitiesfromghrdm)
